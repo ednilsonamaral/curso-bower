@@ -68,4 +68,5 @@ Instalação de pacotes
  `"angular": ">1.2.16"` o _>_ irá permitir qualquer atualização acima de **1.2.16**, porém é de modo mais agressivo e arriscado  
  `"angular": "latest"` o _latest_ irá sempre atualização na versão mais recente do pacote
 
- 
+
+> As vídeo aulas são por [Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnS1vVHVumHKAc8RLcSK-Rl2).
