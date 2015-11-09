@@ -10,4 +10,4 @@ Ele foi criado pelo Twitter, e é ideal para desenvolvimento de aplicações web
 
 ## Instalação
 
-'(npm install -g bower)'
+O '(npm install -g bower)'
