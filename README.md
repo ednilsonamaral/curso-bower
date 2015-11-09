@@ -9,7 +9,8 @@ Além disso, ele também ajuda a manter o projeto mais organizado; facilita a at
 Ele foi criado pelo Twitter, e é ideal para desenvolvimento de aplicações web.
 
 
-## Instalação
+Instalação
+----------
 
  `npm install -g bower`
 
