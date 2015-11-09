@@ -60,9 +60,9 @@ Ele foi criado pelo Twitter, e é ideal para desenvolvimento de aplicações web
  Dentro do `bower.json`, em cada dependencia irá lista algo como: `"angular": "1.2.16"`.  
  Você vai alterar dentro de onde está a versão para utilizar os parametros de atualização.
 
- `"angular": "~1.2.16"` o _~_ irá permitir que atualize da versão *1.2.16* para *1.2.17* mas _não_ para a versão *1.3.0*  
- `"angular": "^1.2.16"` o _^_ irá permitir que atualize da versão *1.2.17* para *1.3.0* mas _não_ para a versão *2.0.0*  
- `"angular": ">1.2.16"` o _>_ irá permitir qualquer atualização acima de *1.2.16*, porém é de modo mais agressivo e arriscado  
+ `"angular": "~1.2.16"` o _~_ irá permitir que atualize da versão **1.2.16** para **1.2.17** mas _não_ para a versão **1.3.0**  
+ `"angular": "^1.2.16"` o _^_ irá permitir que atualize da versão **1.2.17** para *1.3.0** mas _não_ para a versão **2.0.0**  
+ `"angular": ">1.2.16"` o _>_ irá permitir qualquer atualização acima de **1.2.16**, porém é de modo mais agressivo e arriscado  
  `"angular": "latest"` o _latest_ irá sempre atualização na versão mais recente do pacote
 
  
