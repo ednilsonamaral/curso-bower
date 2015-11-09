@@ -27,7 +27,8 @@ Configuração
  Após isso, ele irá criar o arquivo `bower.json`.
 
  
- ## Instalação de pacotes
+Instalação de pacotes
+----------------------
 
  O comando `bower search <name>` serve para buscar determinado pacote a ser instalado.  
  Por exemplo, digitando o comando `bower search angular` ele irá listar na tela várias versões do AngularJS.
@@ -54,7 +55,7 @@ Configuração
  A pasta _lib_ é onde será instalado todos os pacotes. Pode colocar outro nome, caso queira.
 
  
- ## Atualizando pacotes
+## Atualizando pacotes
 
  `bower list` vai listar todos os pacotes que precisam de atualização e que estejam disponiveis para atualização  
  `bower update <nome-do-pacote>` irá respeitar sempre as diretrizes do `bower.json`
