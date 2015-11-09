@@ -8,12 +8,14 @@ Além disso, ele também ajuda a manter o projeto mais organizado; facilita a at
 
 Ele foi criado pelo Twitter, e é ideal para desenvolvimento de aplicações web.
 
+
 ## Instalação
 
  `npm install -g bower`
 
  Para obter ajuda de comandos, basta digitar `bower help`.
 
+ 
  ## Configuração
 
  Ele é configurado por meio do arquivo `bower.json`, onde irá armazenar as dependências instaladas e suas versões.
@@ -22,6 +24,7 @@ Ele foi criado pelo Twitter, e é ideal para desenvolvimento de aplicações web
 
  Após isso, ele irá criar o arquivo `bower.json`.
 
+ 
  ## Instalação de pacotes
 
  O comando `bower search <name>` serve para buscar determinado pacote a ser instalado.  
@@ -40,13 +43,15 @@ Ele foi criado pelo Twitter, e é ideal para desenvolvimento de aplicações web
  Normalmente o Bower instala os pacotes de forma organizada dentro de uma pasta `bower_components/` e tem como alterar esse nome.  
  Para isso, antes de instalar o primeiro pacote do projeto, crie um arquivo chamado `.bowerrc`, que servirá de configuração para esse fim.  
  Dentro desse arquivo, digite os seguintes comandos:
- ```{
-		"directory": "lib/"
+ ```
+ {
+	"directory": "lib/"
 }
  ```
 
  A pasta _lib_ é onde será instalado todos os pacotes. Pode colocar outro nome, caso queira.
 
+ 
  ## Atualizando pacotes
 
  `bower list` vai listar todos os pacotes que precisam de atualização e que estejam disponiveis para atualização  
