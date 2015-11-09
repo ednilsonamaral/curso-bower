@@ -17,7 +17,8 @@ Instalação
  Para obter ajuda de comandos, basta digitar `bower help`.
 
  
- ## Configuração
+Configuração
+-------------
 
  Ele é configurado por meio do arquivo `bower.json`, onde irá armazenar as dependências instaladas e suas versões.
 
