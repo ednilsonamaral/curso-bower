@@ -1,0 +1,21 @@
+{
+  "name": "curso-bower",
+  "description": "generic mask for AngularJS",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "angularjs"
+  ],
+  "authors": [
+    "Ednilson Amaral <ednilsonamaral.ti@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ednilsonamaral/curso-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
